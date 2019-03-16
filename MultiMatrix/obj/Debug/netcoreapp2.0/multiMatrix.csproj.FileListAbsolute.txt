@@ -1,0 +1,22 @@
+I:\Google Drive\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.deps.json
+I:\Google Drive\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.runtimeconfig.json
+I:\Google Drive\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.runtimeconfig.dev.json
+I:\Google Drive\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.dll
+I:\Google Drive\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.pdb
+I:\Google Drive\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.csprojResolveAssemblyReference.cache
+I:\Google Drive\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.csproj.CoreCompileInputs.cache
+I:\Google Drive\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.AssemblyInfoInputs.cache
+I:\Google Drive\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.AssemblyInfo.cs
+I:\Google Drive\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.dll
+I:\Google Drive\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.pdb
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.deps.json
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.runtimeconfig.json
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.runtimeconfig.dev.json
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.dll
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\bin\Debug\netcoreapp2.0\multiMatrix.pdb
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.csprojAssemblyReference.cache
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.csproj.CoreCompileInputs.cache
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.AssemblyInfoInputs.cache
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.AssemblyInfo.cs
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.dll
+C:\Users\wliu\Desktop\MulMatrix\ConsoleApp2\obj\Debug\netcoreapp2.0\multiMatrix.pdb
